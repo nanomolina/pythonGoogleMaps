@@ -5,3 +5,6 @@ https://github.com/googlemaps/google-maps-services-python
 pip install -U googlemaps
 
 pip install ipdb
+
+# Para ejecutar el proyecto
+python pythonGoogleMaps
